@@ -1,0 +1,9 @@
+D:\проект COM-Terminal\ASART_PC\ASART_PC\bin\Debug\ASART_PC.exe.config
+D:\проект COM-Terminal\ASART_PC\ASART_PC\obj\Debug\ASART_PC.exe
+D:\проект COM-Terminal\ASART_PC\ASART_PC\obj\Debug\ASART_PC.pdb
+D:\проект COM-Terminal\ASART_PC\ASART_PC\bin\Debug\ASART_PC.exe
+D:\проект COM-Terminal\ASART_PC\ASART_PC\bin\Debug\ASART_PC.pdb
+D:\проект COM-Terminal\ASART_PC\ASART_PC\obj\Debug\USART_PC.csprojResolveAssemblyReference.cache
+D:\проект COM-Terminal\ASART_PC\ASART_PC\obj\Debug\ASART_PC.Form1.resources
+D:\проект COM-Terminal\ASART_PC\ASART_PC\obj\Debug\ASART_PC.Properties.Resources.resources
+D:\проект COM-Terminal\ASART_PC\ASART_PC\obj\Debug\USART_PC.csproj.GenerateResource.Cache
